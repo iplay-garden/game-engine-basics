@@ -2,6 +2,7 @@ using UnityEngine;
 
 // （挑战）追击的敌人：慢慢向玩家移动
 // 挂载位置：敌人（同时挂 Hazard，碰到即失败）
+// 给敌人挂上 Rigidbody 并勾选 Is Kinematic，就不会被推倒
 public class Chaser : MonoBehaviour
 {
     // 追踪目标（Player）

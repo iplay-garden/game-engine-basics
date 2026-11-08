@@ -2,6 +2,7 @@ using UnityEngine;
 
 // (도전) 쫓아오는 적: 플레이어 쪽으로 천천히 움직인다
 // 붙일 곳: 적 (Hazard도 함께 붙이면 닿을 때 실패)
+// 적에 Rigidbody를 붙이고 Is Kinematic을 체크하면 밀려 넘어지지 않는다
 public class Chaser : MonoBehaviour
 {
     // 따라갈 대상 (Player)
