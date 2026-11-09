@@ -1,6 +1,6 @@
 using UnityEngine;
 
-// 규칙 부품 ⑤-1 열쇠: 플레이어가 닿으면 열쇠를 얻는다
+// 규칙 부품 ④-1 열쇠: 플레이어가 닿으면 열쇠를 얻는다
 // 붙일 곳: 열쇠 (Collider의 Is Trigger 체크)
 public class KeyItem : MonoBehaviour
 {

@@ -1,6 +1,6 @@
 using UnityEngine;
 
-// 规则部件 ⑤-2 门：拿着钥匙碰到即成功
+// 规则部件 ④-2 门：拿着钥匙碰到即成功
 // 挂载位置：门 · 出口（勾选 Collider 的 Is Trigger）
 public class GoalDoor : MonoBehaviour
 {

@@ -1,6 +1,6 @@
 using UnityEngine;
 
-// 规则部件 ④ 击中：点击得分，并瞬间移动到别处
+// 规则部件 ③ 击中：点击得分，并瞬间移动到别处
 // 挂载位置：靶子（需要 Collider）· Main Camera 上挂 ClickHit
 public class ClickTarget : MonoBehaviour
 {

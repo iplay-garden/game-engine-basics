@@ -1,6 +1,6 @@
 using UnityEngine;
 
-// 规则部件 ③ 掉落：从上方不断掉下物体，并逐渐加快
+// 规则部件 ② 躲避（掉落）：从上方不断掉下物体，并逐渐加快
 // 挂载位置：空物体 Spawner（位置 = 掉落区域的中心）
 public class FallingSpawner : MonoBehaviour
 {

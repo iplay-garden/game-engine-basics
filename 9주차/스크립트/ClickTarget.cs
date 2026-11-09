@@ -1,6 +1,6 @@
 using UnityEngine;
 
-// 규칙 부품 ④ 맞히기: 클릭하면 점수, 다른 곳으로 순간 이동
+// 규칙 부품 ③ 맞히기: 클릭하면 점수, 다른 곳으로 순간 이동
 // 붙일 곳: 과녁 (Collider 필요) · Main Camera에는 ClickHit
 public class ClickTarget : MonoBehaviour
 {

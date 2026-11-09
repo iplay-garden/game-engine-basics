@@ -1,6 +1,6 @@
 using UnityEngine;
 
-// 규칙 부품 ③ 떨어뜨리기: 위에서 물체를 계속 떨어뜨리고, 점점 빨라진다
+// 규칙 부품 ② 피하기 (떨어뜨리기): 위에서 물체를 계속 떨어뜨리고, 점점 빨라진다
 // 붙일 곳: 빈 오브젝트 Spawner (위치 = 떨어지는 영역의 가운데)
 public class FallingSpawner : MonoBehaviour
 {

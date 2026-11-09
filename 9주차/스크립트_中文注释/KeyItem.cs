@@ -1,6 +1,6 @@
 using UnityEngine;
 
-// 规则部件 ⑤-1 钥匙：玩家碰到就获得钥匙
+// 规则部件 ④-1 钥匙：玩家碰到就获得钥匙
 // 挂载位置：钥匙（勾选 Collider 的 Is Trigger）
 public class KeyItem : MonoBehaviour
 {

@@ -1,6 +1,6 @@
 using UnityEngine;
 
-// 규칙 부품 ⑤-2 문: 열쇠를 가지고 닿으면 성공
+// 규칙 부품 ④-2 문: 열쇠를 가지고 닿으면 성공
 // 붙일 곳: 문 · 출구 (Collider의 Is Trigger 체크)
 public class GoalDoor : MonoBehaviour
 {
